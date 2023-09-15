@@ -12,7 +12,7 @@
 
 vCard is a fully responsive Personal Portfolio Website, Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://codewithsadee.github.io/cryptex](https://github.com/sadhin555/vCard-Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
+<a href="https://github.com/sadhin555/vCard-Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
