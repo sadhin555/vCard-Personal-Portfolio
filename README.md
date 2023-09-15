@@ -5,8 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/sadhin555/vCard-Personal-Portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sadhin555_?style=social)](https://twitter.com/intent/follow?screen_name=sadhin555_)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-* [Link](https://github.com/sadhin555/vCard-Personal-Portfolio)
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript. [Link](https://github.com/sadhin555/vCard-Personal-Portfolio)
 
 ## Demo 
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
